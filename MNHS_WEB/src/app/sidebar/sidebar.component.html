@@ -1,0 +1,62 @@
+<div class="wrapper">
+    <!-- Sidebar  -->
+    <nav id="sidebar">
+        <div class="sidebar-header text-center">
+            <img src="assets/admin.png" alt="" style="width: 100px;" class="rounded-circle">
+            <p class="text-light p-2">Welcome Admin !!</p>
+        </div>
+
+        <ul class="list-unstyled components ml-2">
+            <li class="active">
+                <a href="#homeSubmenu" aria-expanded="false">Home</a>
+            </li>
+            <li>
+                <a href="" data-toggle="modal" data-target="#listUsersModal">List User</a>
+            </li>
+            <li>
+                <a href="" data-toggle="modal" data-target="#addUserModal">Add User</a>
+            </li>
+            <li>
+                <a href="#">Start Package</a>
+            </li>
+            <li>
+                <a href="#">Track Package</a>
+            </li>
+            <li>
+                <a href="#">Manage Package</a>
+            </li>
+            <li>
+                <a href="#">See History</a>
+            </li>
+            <li>
+                <a href="#">Add FAQs</a>
+            </li>
+            <li>
+                <a href="#">Add Documentation</a>
+            </li>
+        </ul>
+        <div class="text-center mt-1">
+            <p style="font-size: 0.75em;" class="text-light">Developed by Sameer.</p>
+        </div>
+    </nav>
+
+    <!-- Page Content  -->
+    <div id="content" class="m-0 p-0">
+
+        <nav class="navbar navbar-expand-lg" style="background-color: lightgrey; box-shadow: 0 1px 4px gray;">
+            <div class="container-fluid">
+
+                <button type="button" id="sidebarCollapse" class="btn btn-info">
+                    <i class="fas fa-align-left mx-2"></i>
+                    <span></span>
+                </button>
+
+                <h4 style="color: #6d7fcc; font-size: 2em; font-family: 'Concert One', cursive; text-shadow: 0.5px 0.5px 1px blue;">MNHS - Waste Management Portal</h4>
+            </div>
+        </nav>
+
+        <app-content></app-content>
+
+    </div>
+    
+</div>
