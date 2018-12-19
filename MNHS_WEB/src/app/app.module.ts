@@ -8,7 +8,6 @@ import { ModalComponent } from './modal/modal.component';
 import {HttpClient, HttpClientModule} from '@angular/common/http';
 import {UserServiceService} from './user-service.service';
 import {FormsModule} from '@angular/forms';
-import {RouterModule} from '@angular/router';
 
 @NgModule({
   declarations: [
