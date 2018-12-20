@@ -90,7 +90,6 @@ class ScanLocState extends State<ScanLoc> {
                       decoration: new BoxDecoration(
                           color: Color.fromRGBO(102, 0, 102, 0.5)
                       ),
-                      accountEmail: new Text("admin256@gmail.com",style: TextStyle(color: Colors.white,fontSize: 16.0),),
                       currentAccountPicture: new CircleAvatar(
                         backgroundImage: new NetworkImage('https://i1.wp.com/www.winhelponline.com/blog/wp-content/uploads/2017/12/user.png?fit=256%2C256&quality=100&ssl=1'),
                       ),
