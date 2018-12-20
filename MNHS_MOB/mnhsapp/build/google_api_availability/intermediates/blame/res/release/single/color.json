@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Codes\\Web\\mnhs\\MNHS_MOB\\mnhsapp\\build\\google_api_availability\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\sameer\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\817d74d9caded0b3c49abc7f131f38f5\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "F:\\Codes\\Web\\mnhs\\MNHS_MOB\\mnhsapp\\build\\google_api_availability\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\sameer\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\817d74d9caded0b3c49abc7f131f38f5\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\Codes\\Web\\mnhs\\MNHS_MOB\\mnhsapp\\build\\google_api_availability\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\sameer\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\817d74d9caded0b3c49abc7f131f38f5\\res\\color\\common_google_signin_btn_tint.xml"
+    }
+]

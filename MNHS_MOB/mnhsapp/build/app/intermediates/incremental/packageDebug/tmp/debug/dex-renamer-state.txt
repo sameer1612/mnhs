@@ -1,0 +1,4 @@
+#Thu Dec 20 20:57:08 IST 2018
+base.0=F\:\\Codes\\Web\\mnhs\\MNHS_MOB\\mnhsapp\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

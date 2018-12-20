@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\Codes\\Web\\mnhs\\MNHS_MOB\\mnhsapp\\build\\permission_handler\\intermediates\\res\\merged\\release\\values-hr\\values-hr.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sameer\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\27d9bb3504beb80150197bfd73c22b1f\\res\\values-hr\\values-hr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "F:\\Codes\\Web\\mnhs\\MNHS_MOB\\mnhsapp\\build\\permission_handler\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-hr\\values-hr.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sameer\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\27d9bb3504beb80150197bfd73c22b1f\\res\\values-hr\\values-hr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
